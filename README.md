@@ -27,7 +27,7 @@ The implementation is contained in the `GA.py` file, which defines the following
 
 1. Clone the repository: 
 git clone https://github.com/Aosotsi/GA-TSP.git
-, cd tsp-genetic-algorithm
+, cd GA-TSP
 2. Open the GA.py file and modify the distance_matrix variable to represent the pairwise distances between your cities.
 3. Adjust the parameters for the genetic algorithm as needed, such as population_size, num_generations, crossover_rate, mutation_rate, and tournament_size.
 4. Run the program: python GA.py
